@@ -4,9 +4,54 @@
     ViewData["Title"] = "Home page";
 }
 
+@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $.ajax({
+                url: "https://localhost:7008/topten",
+                dataType: 'json',
+                type: 'get',
+                cache:false,
+                success: function(data){
+                    /*console.log(data);*/
+                    var userJobData = '';
+                    $.each(data, function(index, value){
+                        /*console.log(value);*/
+                        userJobData += '<tr>';
+                        userJobData += '<td>'+value.username+'</td>';
+                        userJobData += '<td>'+value.lastname+'</td>';
+                        userJobData += '<td>'+value.jobname+'</td>';
+                        userJobData += '<td>'+value.created+'</td>';
+                        userJobData += '<tr>';
+                    });
+                    $("#tableUserJobs").append(userJobData);
+                },
+                error: function(d){
+                    /*console.log("error");*/
+                    alert("404. Please wait until the File is Loaded.");
+                }
+            });
+        });
+    </script>
+    }
+
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
     <p><a href="/topten">Top ten 1st endpoint</a>.</p>
     <p><a href="/abovemean">Top five 2nd endpoint</a>.</p>
 </div>
+
+<hr />
+<table id="tableUserJobs" cellpadding="3" cellspacing="10">
+    <caption align="Top">Top 10 darbuotojai, kurie paskutiniai atliko darbą</caption>
+    <tbody>
+        <tr>
+            <th>UserName</th>
+            <th>LastName</th>
+            <th>JobName</th>
+            <th>Created</th>
+        </tr>
+    </tbody>
+</table>
+<br />

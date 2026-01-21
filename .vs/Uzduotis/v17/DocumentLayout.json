@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\src\\teltonika\\Uzduotis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\data\\uzduotisdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\data\\uzduotisdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AE6123C-975A-4E65-AABD-509B1F3653F7}|MinimalApi\\MinimalApi.csproj|c:\\src\\teltonika\\uzduotis\\minimalapi\\data\\entities\\topnrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,71 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MinimalApi\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MinimalApi\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-21T19:04:38.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MinimalApi\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "MinimalApi\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-21T19:04:31.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MinimalApi\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "MinimalApi\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-21T19:04:29.271Z",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MinimalApi\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MinimalApi\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:13:49.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Error.cshtml.cs",
-              "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Error.cshtml.cs",
-              "RelativeDocumentMoniker": "MinimalApi\\Pages\\Error.cshtml.cs",
-              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Error.cshtml.cs",
-              "RelativeToolTip": "MinimalApi\\Pages\\Error.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:32:13.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MinimalApi\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Index.cshtml",
-              "RelativeToolTip": "MinimalApi\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "MinimalApi\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-21T14:01:13.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "MinimalApi\\Pages\\Error.cshtml",
@@ -148,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "AboveMeanRecord.cs",
               "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Data\\Entities\\AboveMeanRecord.cs",
               "RelativeDocumentMoniker": "MinimalApi\\Data\\Entities\\AboveMeanRecord.cs",
@@ -161,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "TopNRecord.cs",
               "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Data\\Entities\\TopNRecord.cs",
               "RelativeDocumentMoniker": "MinimalApi\\Data\\Entities\\TopNRecord.cs",
@@ -174,33 +123,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "UzduotisDb.cs",
               "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Data\\UzduotisDb.cs",
               "RelativeDocumentMoniker": "MinimalApi\\Data\\UzduotisDb.cs",
               "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Data\\UzduotisDb.cs",
               "RelativeToolTip": "MinimalApi\\Data\\UzduotisDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T12:57:35.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Operations.cs",
               "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Operations.cs",
               "RelativeDocumentMoniker": "MinimalApi\\Operations.cs",
               "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Operations.cs",
               "RelativeToolTip": "MinimalApi\\Operations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T11:04:26.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalApi\\Program.cs",
+              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Program.cs",
+              "RelativeToolTip": "MinimalApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:20:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\appsettings.json",
               "RelativeDocumentMoniker": "MinimalApi\\appsettings.json",
@@ -209,19 +171,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-20T10:40:08.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Program.cs",
-              "RelativeDocumentMoniker": "MinimalApi\\Program.cs",
-              "ToolTip": "C:\\src\\teltonika\\Uzduotis\\MinimalApi\\Program.cs",
-              "RelativeToolTip": "MinimalApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T09:20:24.285Z",
               "EditorCaption": ""
             }
           ]
