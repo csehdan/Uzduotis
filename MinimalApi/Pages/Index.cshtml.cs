@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace MinimalFontEnd.Pages
+namespace MinimalFrontEnd.Pages
 {
 	public class IndexModel : PageModel
 	{
