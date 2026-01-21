@@ -1,7 +1,5 @@
-using Microsoft.EntityFrameworkCore;
 using MinimalApi;
 using MinimalApi.Data;
-using MinimalApi.Data.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<UzduotisDb>();
@@ -17,7 +15,7 @@ var app = builder.Build();
 app.MapGet("/topten", Operations.GetTopTen);
 app.MapGet("/topten/{n}", Operations.GetTopTen);
 
-app.MapGet("/abovemean/", Operations.GetAboveMean);
+app.MapGet("/abovemean", Operations.GetAboveMean);
 app.MapGet("/abovemean/{n}", Operations.GetAboveMean);
 
 
