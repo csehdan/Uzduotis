@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Options;
 using MinimalApi.Data.Entities;
 
 namespace MinimalApi.Data
@@ -11,11 +12,14 @@ namespace MinimalApi.Data
 
 		protected override void OnConfiguring(DbContextOptionsBuilder options)
 		{
-			//var connectionString = Environment.GetEnvironmentVariable("BLOGGING_DB_CONNECTION")
-			//	?? throw new InvalidOperationException("Database connection string is not set.");
-			var cstr = "Data Source=localhost;Initial Catalog=uzduotis;Integrated Security=True;Trust Server Certificate=True";
-			//var = Environment.// GetConnectionString("Uzduotis");
-			options.UseSqlServer(cstr);
+
+			IConfigurationRoot configuration = new ConfigurationBuilder()
+			.SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+			.AddJsonFile("appsettings.json")
+			.Build();
+			var connectionString = configuration.GetConnectionString("DefaultConnection");
+
+			options.UseSqlServer(connectionString);
 		}
 	}
 }
